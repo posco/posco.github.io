@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F Tso | PT</title>
+    <link>https://posco.github.io/authors/f-tso/</link>
+      <atom:link href="https://posco.github.io/authors/f-tso/index.xml" rel="self" type="application/rss+xml" />
+    <description>F Tso</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 08 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>F Tso</title>
+      <link>https://posco.github.io/authors/f-tso/</link>
+    </image>
+    
+    <item>
+      <title>Heterogeneous Network Policy Enforcement in Data Centers</title>
+      <link>https://posco.github.io/publication/cui-2017-heterogeneouscenters/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2017-heterogeneouscenters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Management in LTE-WiFi Slicing Networks</title>
+      <link>https://posco.github.io/publication/alfoudi-2017-trafficnetworks/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/alfoudi-2017-trafficnetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Low Power Compute Clusters for Cloud Simulation</title>
+      <link>https://posco.github.io/publication/kecskemeti-2017-modellingsimulation/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/kecskemeti-2017-modellingsimulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,16 +1,376 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | PT</title>
     <link>https://posco.github.io/publication/</link>
       <atom:link href="https://posco.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 19 Aug 2022 19:28:23 +0000</lastBuildDate>
     <image>
       <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://posco.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>B-Scale: Bottleneck-aware VNF scaling and flow routing in edge clouds</title>
+      <link>https://posco.github.io/publication/chenbscaleclouds/</link>
+      <pubDate>Fri, 19 Aug 2022 19:28:23 +0000</pubDate>
+      <guid>https://posco.github.io/publication/chenbscaleclouds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dDrops: Detecting silent packet drops on programmable data plane</title>
+      <link>https://posco.github.io/publication/qian-2022-ddropsplane/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/qian-2022-ddropsplane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pSFC: Fine-grained composition of service function chains in the programmable data plane</title>
+      <link>https://posco.github.io/publication/zhang-2022-psfcplane/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2022-psfcplane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed federated service chaining: A scalable and cost-aware approach for multi-domain networks</title>
+      <link>https://posco.github.io/publication/chen-2022-distributednetworks/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/chen-2022-distributednetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-latency service function chain migration in edge-core networks based on open Jackson networks</title>
+      <link>https://posco.github.io/publication/liang-2022/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/liang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Federated Service Chaining for Heterogeneous Network Environments</title>
+      <link>https://posco.github.io/publication/chendistributed-2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/chendistributed-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent Reinforcement Learning Based 3D Trajectory Design in Aerial-Terrestrial Wireless Caching Networks</title>
+      <link>https://posco.github.io/publication/chen-multi-2021/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/chen-multi-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pHeavy: Predicting Heavy Flows in the Programmable Data Plane</title>
+      <link>https://posco.github.io/publication/zhang-2021/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey on stateful data plane in software defined networks</title>
+      <link>https://posco.github.io/publication/zhang-2020/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Service Chaining: Architecture and Challenges</title>
+      <link>https://posco.github.io/publication/cui-2020/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility-aware Probabilistic Caching in UAV-assisted Wireless D2D Networks</title>
+      <link>https://posco.github.io/publication/chen-2019/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/chen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Futurology</title>
+      <link>https://posco.github.io/publication/varghese-2019/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/varghese-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mystique: A Fine-grained and Transparent Congestion Control Enforcement Scheme</title>
+      <link>https://posco.github.io/publication/zhang-2019/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extensive evaluation on the performance and behaviour of TCP congestion control protocols under varied network scenarios</title>
+      <link>https://posco.github.io/publication/lin-2019/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/lin-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance analysis of single board computer clusters</title>
+      <link>https://posco.github.io/publication/basford-2019/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/basford-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous flying WiFi access point</title>
+      <link>https://posco.github.io/publication/nunns-2019/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/nunns-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What can we expect from navigating? Exploring navigation, wearables and data through critical design concepts</title>
+      <link>https://posco.github.io/publication/lee-smith-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/lee-smith-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Network Function Chain Composition for Mitigating Network Latency</title>
+      <link>https://posco.github.io/publication/hajji-2018/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/hajji-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modest BBR: Enabling Better Fairness for BBR Congestion Control</title>
+      <link>https://posco.github.io/publication/zhang-2018-b/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling heterogeneous network function chaining</title>
+      <link>https://posco.github.io/publication/cui-2018-b/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fine-grained and Transparent Congestion Control Enforcement Scheme</title>
+      <link>https://posco.github.io/publication/zhang-2018/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next generation single board clusters</title>
+      <link>https://posco.github.io/publication/singer-2018/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/singer-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commodity single board computer clusters and their applications</title>
+      <link>https://posco.github.io/publication/johnston-2018/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/johnston-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enforcing Network Policy in Heterogeneous Network Function Box Environment</title>
+      <link>https://posco.github.io/publication/cui-2018-enforcing/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2018-enforcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Live migration on ARM-based micro-datacentres</title>
+      <link>https://posco.github.io/publication/avramidis-2018/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/avramidis-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latency-aware Joint Virtual Machine and Policy Consolidation for Mobile Edge Computing</title>
+      <link>https://posco.github.io/publication/genez-2018-latency/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/genez-2018-latency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROTECT: Container Process Isolation Using System Call Interception</title>
+      <link>https://posco.github.io/publication/win-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/win-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCon: A Transparent Congestion Control Deployment Platform for Optimizing WAN Transfers</title>
+      <link>https://posco.github.io/publication/zhang-2017/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Track: Tracerouting in SDN Networks with Arbitrary Network Functions</title>
+      <link>https://posco.github.io/publication/zhang-2017-cloudnet/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2017-cloudnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Evaluation of SDN-Controlled, Joint Consolidation of Policies and Virtual Machines</title>
+      <link>https://posco.github.io/publication/hajji-2017/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/hajji-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Network Policy Enforcement in Data Centers</title>
+      <link>https://posco.github.io/publication/cui-2017-heterogeneouscenters/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2017-heterogeneouscenters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Management in LTE-WiFi Slicing Networks</title>
+      <link>https://posco.github.io/publication/alfoudi-2017-trafficnetworks/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/alfoudi-2017-trafficnetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Low Power Compute Clusters for Cloud Simulation</title>
+      <link>https://posco.github.io/publication/kecskemeti-2017-modellingsimulation/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/kecskemeti-2017-modellingsimulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLAN: Joint Policy- and Network-Aware VM Management for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/cui-2016-plan/</link>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2016-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network and Server Resource Management Strategies for Data Centre Infrastructures: A Survey</title>
+      <link>https://posco.github.io/publication/tso-2016-b/</link>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Performance of Low Power Raspberry Pi Cloud for Big Data</title>
+      <link>https://posco.github.io/publication/hajji-2016/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/hajji-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergistic Policy and Virtual Machine Consolidation in Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/cui-2016/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding The Network I/O Performance of Heterogenous Virtualisation in Cloud Data Centres</title>
+      <link>https://posco.github.io/publication/tso-2016/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDN-based Virtual Machine Management for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/cziva-2016/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cziva-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLAN: A Policy-Aware VM Management Scheme for Cloud Data Centres</title>
+      <link>https://posco.github.io/publication/cui-2015/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Virtual Machine and Network Policy Consolidation in Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/cui-2015-b/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy-Aware Virtual Machine Management in Data Center Networks</title>
+      <link>https://posco.github.io/publication/cui-2015-bb/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2015-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDN-based Virtual Machine Management for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/cziva-2014/</link>
+      <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cziva-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Traffic-Aware Virtual Machine Management for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/tso-2014/</link>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DragonNet: A Robust Mobile Internet Service System for Long-Distance Trains</title>
+      <link>https://posco.github.io/publication/tso-2013-b/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>
@@ -29,6 +389,182 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Longer is Better: Exploiting Path Diversity in Data Cente</title>
+      <link>https://posco.github.io/publication/tso-2013-bb/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longer is Better: Exploiting Path Diversity in Data Cente</title>
+      <link>https://posco.github.io/publication/tso-2013-longer/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-longer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Glasgow Raspberry Pi Cloud: A Scale Model for Cloud Computing Infrastructures</title>
+      <link>https://posco.github.io/publication/tso-2013-glasgow/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-glasgow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Scalable, Network-Aware Virtual Machine Migration for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/tso-2013-implementing/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-implementing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Data Center Network Utilization Using Near-Optimal Traffic Engineering</title>
+      <link>https://posco.github.io/publication/tso-2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baatdaat: Measurement-Based Flow Scheduling for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/tso-2013-bbb/</link>
+      <pubDate>Mon, 08 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-bbb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S-CORE: Scalable Communication Reduction in Data Center Environments</title>
+      <link>https://posco.github.io/publication/tso-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-level Data Center Tomography</title>
+      <link>https://posco.github.io/publication/twigg-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/twigg-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind detection of spread spectrum flow watermarks</title>
+      <link>https://posco.github.io/publication/jia-2012/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeFiLab: A Web-Based WiFi Laboratory Platform for Wireless Networking Education</title>
+      <link>https://posco.github.io/publication/cui-2012/</link>
+      <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility: A Double-Edged Sword for HSPA Networks</title>
+      <link>https://posco.github.io/publication/tso-2011/</link>
+      <pubDate>Mon, 07 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DragonNet: A Robust Mobile Internet Services System for Long Distance Trains</title>
+      <link>https://posco.github.io/publication/tso-2011-b/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Platform to Bridge Low End Mobile Phones and Cloud Computing Services</title>
+      <link>https://posco.github.io/publication/tso-2011-bb/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2011-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility: A Double-Edged Sword for HSPA Networks</title>
+      <link>https://posco.github.io/publication/tso-2010/</link>
+      <pubDate>Wed, 22 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Detection of Spread Spectrum Flow Watermarks</title>
+      <link>https://posco.github.io/publication/jia-2009/</link>
+      <pubDate>Sun, 19 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward ubiquitous Video-based Cyber-Physical Systems</title>
+      <link>https://posco.github.io/publication/xing-2008/</link>
+      <pubDate>Mon, 06 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/xing-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture design of video transmission between UMTS and WSN</title>
+      <link>https://posco.github.io/publication/du-2008/</link>
+      <pubDate>Thu, 31 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/du-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of an Efficient and Robust Multimedia Gateway for Pervasive Communication</title>
+      <link>https://posco.github.io/publication/tso-2008/</link>
+      <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnySense: a Video Communication Architecture for Urban Sensing Applications</title>
+      <link>https://posco.github.io/publication/jia-2007/</link>
+      <pubDate>Tue, 06 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Surveillance Patrol Robot System in 3G Internet and Sensor Networks</title>
+      <link>https://posco.github.io/publication/tso-2007/</link>
+      <pubDate>Sat, 09 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation of Scheduling in IEEE 802.16 Based Wireless Mesh Networks</title>
+      <link>https://posco.github.io/publication/han-2006/</link>
+      <pubDate>Mon, 09 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/han-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient 3G324M protocol Implementation for Low Bit Rate Multipoint Video Conferencing</title>
+      <link>https://posco.github.io/publication/jia-2006/</link>
+      <pubDate>Mon, 02 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2006/</guid>
+      <description></description>
     </item>
     
   </channel>

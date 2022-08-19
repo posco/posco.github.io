@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremy Singer | PT</title>
+    <link>https://posco.github.io/authors/jeremy-singer/</link>
+      <atom:link href="https://posco.github.io/authors/jeremy-singer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeremy Singer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Jeremy Singer</title>
+      <link>https://posco.github.io/authors/jeremy-singer/</link>
+    </image>
+    
+    <item>
+      <title>Cloud Futurology</title>
+      <link>https://posco.github.io/publication/varghese-2019/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/varghese-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance analysis of single board computer clusters</title>
+      <link>https://posco.github.io/publication/basford-2019/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/basford-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next generation single board clusters</title>
+      <link>https://posco.github.io/publication/singer-2018/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/singer-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Glasgow Raspberry Pi Cloud: A Scale Model for Cloud Computing Infrastructures</title>
+      <link>https://posco.github.io/publication/tso-2013-glasgow/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-glasgow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

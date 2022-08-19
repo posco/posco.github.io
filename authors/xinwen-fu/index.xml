@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinwen Fu | PT</title>
+    <link>https://posco.github.io/authors/xinwen-fu/</link>
+      <atom:link href="https://posco.github.io/authors/xinwen-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinwen Fu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Thu, 17 May 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Xinwen Fu</title>
+      <link>https://posco.github.io/authors/xinwen-fu/</link>
+    </image>
+    
+    <item>
+      <title>Blind detection of spread spectrum flow watermarks</title>
+      <link>https://posco.github.io/publication/jia-2012/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Detection of Spread Spectrum Flow Watermarks</title>
+      <link>https://posco.github.io/publication/jia-2009/</link>
+      <pubDate>Sun, 19 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

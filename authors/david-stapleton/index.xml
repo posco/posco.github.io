@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Stapleton | PT</title>
+    <link>https://posco.github.io/authors/david-stapleton/</link>
+      <atom:link href="https://posco.github.io/authors/david-stapleton/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Stapleton</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 23 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>David Stapleton</title>
+      <link>https://posco.github.io/authors/david-stapleton/</link>
+    </image>
+    
+    <item>
+      <title>SDN-based Virtual Machine Management for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/cziva-2016/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cziva-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDN-based Virtual Machine Management for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/cziva-2014/</link>
+      <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cziva-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

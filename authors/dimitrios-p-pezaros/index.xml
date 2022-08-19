@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitrios P Pezaros | PT</title>
+    <link>https://posco.github.io/authors/dimitrios-p-pezaros/</link>
+      <atom:link href="https://posco.github.io/authors/dimitrios-p-pezaros/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dimitrios P Pezaros</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dimitrios P Pezaros</title>
+      <link>https://posco.github.io/authors/dimitrios-p-pezaros/</link>
+    </image>
+    
+    <item>
+      <title>Experimental Evaluation of SDN-Controlled, Joint Consolidation of Policies and Virtual Machines</title>
+      <link>https://posco.github.io/publication/hajji-2017/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/hajji-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDN-based Virtual Machine Management for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/cziva-2014/</link>
+      <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cziva-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

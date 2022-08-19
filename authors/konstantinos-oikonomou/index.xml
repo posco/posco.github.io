@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konstantinos Oikonomou | PT</title>
+    <link>https://posco.github.io/authors/konstantinos-oikonomou/</link>
+      <atom:link href="https://posco.github.io/authors/konstantinos-oikonomou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Konstantinos Oikonomou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 27 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Konstantinos Oikonomou</title>
+      <link>https://posco.github.io/authors/konstantinos-oikonomou/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Traffic-Aware Virtual Machine Management for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/tso-2014/</link>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Scalable, Network-Aware Virtual Machine Migration for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/tso-2013-implementing/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-implementing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

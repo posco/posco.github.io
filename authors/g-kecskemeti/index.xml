@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G Kecskemeti | PT</title>
+    <link>https://posco.github.io/authors/g-kecskemeti/</link>
+      <atom:link href="https://posco.github.io/authors/g-kecskemeti/index.xml" rel="self" type="application/rss+xml" />
+    <description>G Kecskemeti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 06 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>G Kecskemeti</title>
+      <link>https://posco.github.io/authors/g-kecskemeti/</link>
+    </image>
+    
+    <item>
+      <title>Modelling Low Power Compute Clusters for Cloud Simulation</title>
+      <link>https://posco.github.io/publication/kecskemeti-2017-modellingsimulation/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/kecskemeti-2017-modellingsimulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

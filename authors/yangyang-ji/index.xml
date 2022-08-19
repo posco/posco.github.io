@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yangyang Ji | PT</title>
+    <link>https://posco.github.io/authors/yangyang-ji/</link>
+      <atom:link href="https://posco.github.io/authors/yangyang-ji/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yangyang Ji</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yangyang Ji</title>
+      <link>https://posco.github.io/authors/yangyang-ji/</link>
+    </image>
+    
+    <item>
+      <title>A survey on stateful data plane in software defined networks</title>
+      <link>https://posco.github.io/publication/zhang-2020/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

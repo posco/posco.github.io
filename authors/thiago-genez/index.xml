@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thiago Genez | PT</title>
+    <link>https://posco.github.io/authors/thiago-genez/</link>
+      <atom:link href="https://posco.github.io/authors/thiago-genez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thiago Genez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Thiago Genez</title>
+      <link>https://posco.github.io/authors/thiago-genez/</link>
+    </image>
+    
+    <item>
+      <title>Latency-aware Joint Virtual Machine and Policy Consolidation for Mobile Edge Computing</title>
+      <link>https://posco.github.io/publication/genez-2018-latency/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/genez-2018-latency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lizhuo Zhang | PT</title>
+    <link>https://posco.github.io/authors/lizhuo-zhang/</link>
+      <atom:link href="https://posco.github.io/authors/lizhuo-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lizhuo Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Lizhuo Zhang</title>
+      <link>https://posco.github.io/authors/lizhuo-zhang/</link>
+    </image>
+    
+    <item>
+      <title>DragonNet: A Robust Mobile Internet Service System for Long-Distance Trains</title>
+      <link>https://posco.github.io/publication/tso-2013-b/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DragonNet: A Robust Mobile Internet Services System for Long Distance Trains</title>
+      <link>https://posco.github.io/publication/tso-2011-b/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Platform to Bridge Low End Mobile Phones and Cloud Computing Services</title>
+      <link>https://posco.github.io/publication/tso-2011-bb/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2011-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Surveillance Patrol Robot System in 3G Internet and Sensor Networks</title>
+      <link>https://posco.github.io/publication/tso-2007/</link>
+      <pubDate>Sat, 09 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

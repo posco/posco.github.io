@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weijia Jia | PT</title>
+    <link>https://posco.github.io/authors/weijia-jia/</link>
+      <atom:link href="https://posco.github.io/authors/weijia-jia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weijia Jia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Weijia Jia</title>
+      <link>https://posco.github.io/authors/weijia-jia/</link>
+    </image>
+    
+    <item>
+      <title>pHeavy: Predicting Heavy Flows in the Programmable Data Plane</title>
+      <link>https://posco.github.io/publication/zhang-2021/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey on stateful data plane in software defined networks</title>
+      <link>https://posco.github.io/publication/zhang-2020/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Service Chaining: Architecture and Challenges</title>
+      <link>https://posco.github.io/publication/cui-2020/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mystique: A Fine-grained and Transparent Congestion Control Enforcement Scheme</title>
+      <link>https://posco.github.io/publication/zhang-2019/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling heterogeneous network function chaining</title>
+      <link>https://posco.github.io/publication/cui-2018-b/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enforcing Network Policy in Heterogeneous Network Function Box Environment</title>
+      <link>https://posco.github.io/publication/cui-2018-enforcing/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2018-enforcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCon: A Transparent Congestion Control Deployment Platform for Optimizing WAN Transfers</title>
+      <link>https://posco.github.io/publication/zhang-2017/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLAN: A Policy-Aware VM Management Scheme for Cloud Data Centres</title>
+      <link>https://posco.github.io/publication/cui-2015/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy-Aware Virtual Machine Management in Data Center Networks</title>
+      <link>https://posco.github.io/publication/cui-2015-bb/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2015-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DragonNet: A Robust Mobile Internet Service System for Long-Distance Trains</title>
+      <link>https://posco.github.io/publication/tso-2013-b/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind detection of spread spectrum flow watermarks</title>
+      <link>https://posco.github.io/publication/jia-2012/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeFiLab: A Web-Based WiFi Laboratory Platform for Wireless Networking Education</title>
+      <link>https://posco.github.io/publication/cui-2012/</link>
+      <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility: A Double-Edged Sword for HSPA Networks</title>
+      <link>https://posco.github.io/publication/tso-2011/</link>
+      <pubDate>Mon, 07 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DragonNet: A Robust Mobile Internet Services System for Long Distance Trains</title>
+      <link>https://posco.github.io/publication/tso-2011-b/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Platform to Bridge Low End Mobile Phones and Cloud Computing Services</title>
+      <link>https://posco.github.io/publication/tso-2011-bb/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2011-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility: A Double-Edged Sword for HSPA Networks</title>
+      <link>https://posco.github.io/publication/tso-2010/</link>
+      <pubDate>Wed, 22 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Detection of Spread Spectrum Flow Watermarks</title>
+      <link>https://posco.github.io/publication/jia-2009/</link>
+      <pubDate>Sun, 19 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward ubiquitous Video-based Cyber-Physical Systems</title>
+      <link>https://posco.github.io/publication/xing-2008/</link>
+      <pubDate>Mon, 06 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/xing-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture design of video transmission between UMTS and WSN</title>
+      <link>https://posco.github.io/publication/du-2008/</link>
+      <pubDate>Thu, 31 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/du-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of an Efficient and Robust Multimedia Gateway for Pervasive Communication</title>
+      <link>https://posco.github.io/publication/tso-2008/</link>
+      <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnySense: a Video Communication Architecture for Urban Sensing Applications</title>
+      <link>https://posco.github.io/publication/jia-2007/</link>
+      <pubDate>Tue, 06 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Surveillance Patrol Robot System in 3G Internet and Sensor Networks</title>
+      <link>https://posco.github.io/publication/tso-2007/</link>
+      <pubDate>Sat, 09 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation of Scheduling in IEEE 802.16 Based Wireless Mesh Networks</title>
+      <link>https://posco.github.io/publication/han-2006/</link>
+      <pubDate>Mon, 09 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/han-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient 3G324M protocol Implementation for Low Bit Rate Multipoint Video Conferencing</title>
+      <link>https://posco.github.io/publication/jia-2006/</link>
+      <pubDate>Mon, 02 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

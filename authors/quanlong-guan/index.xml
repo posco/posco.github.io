@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quanlong Guan | PT</title>
+    <link>https://posco.github.io/authors/quanlong-guan/</link>
+      <atom:link href="https://posco.github.io/authors/quanlong-guan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quanlong Guan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Quanlong Guan</title>
+      <link>https://posco.github.io/authors/quanlong-guan/</link>
+    </image>
+    
+    <item>
+      <title>Mystique: A Fine-grained and Transparent Congestion Control Enforcement Scheme</title>
+      <link>https://posco.github.io/publication/zhang-2019/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extensive evaluation on the performance and behaviour of TCP congestion control protocols under varied network scenarios</title>
+      <link>https://posco.github.io/publication/lin-2019/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/lin-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCon: A Transparent Congestion Control Deployment Platform for Optimizing WAN Transfers</title>
+      <link>https://posco.github.io/publication/zhang-2017/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

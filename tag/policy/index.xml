@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>policy | PT</title>
+    <link>https://posco.github.io/tag/policy/</link>
+      <atom:link href="https://posco.github.io/tag/policy/index.xml" rel="self" type="application/rss+xml" />
+    <description>policy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>policy</title>
+      <link>https://posco.github.io/tag/policy/</link>
+    </image>
+    
+    <item>
+      <title>Low-latency service function chain migration in edge-core networks based on open Jackson networks</title>
+      <link>https://posco.github.io/publication/liang-2022/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/liang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Service Chaining: Architecture and Challenges</title>
+      <link>https://posco.github.io/publication/cui-2020/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Network Function Chain Composition for Mitigating Network Latency</title>
+      <link>https://posco.github.io/publication/hajji-2018/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/hajji-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling heterogeneous network function chaining</title>
+      <link>https://posco.github.io/publication/cui-2018-b/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enforcing Network Policy in Heterogeneous Network Function Box Environment</title>
+      <link>https://posco.github.io/publication/cui-2018-enforcing/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2018-enforcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latency-aware Joint Virtual Machine and Policy Consolidation for Mobile Edge Computing</title>
+      <link>https://posco.github.io/publication/genez-2018-latency/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/genez-2018-latency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Network Policy Enforcement in Data Centers</title>
+      <link>https://posco.github.io/publication/cui-2017-heterogeneouscenters/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2017-heterogeneouscenters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLAN: Joint Policy- and Network-Aware VM Management for Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/cui-2016-plan/</link>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2016-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergistic Policy and Virtual Machine Consolidation in Cloud Data Centers</title>
+      <link>https://posco.github.io/publication/cui-2016/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLAN: A Policy-Aware VM Management Scheme for Cloud Data Centres</title>
+      <link>https://posco.github.io/publication/cui-2015/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/cui-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

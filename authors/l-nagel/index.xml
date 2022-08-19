@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Nagel | PT</title>
+    <link>https://posco.github.io/authors/l-nagel/</link>
+      <atom:link href="https://posco.github.io/authors/l-nagel/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Nagel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 19 Aug 2022 19:28:23 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>L Nagel</title>
+      <link>https://posco.github.io/authors/l-nagel/</link>
+    </image>
+    
+    <item>
+      <title>B-Scale: Bottleneck-aware VNF scaling and flow routing in edge clouds</title>
+      <link>https://posco.github.io/publication/chenbscaleclouds/</link>
+      <pubDate>Fri, 19 Aug 2022 19:28:23 +0000</pubDate>
+      <guid>https://posco.github.io/publication/chenbscaleclouds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed federated service chaining: A scalable and cost-aware approach for multi-domain networks</title>
+      <link>https://posco.github.io/publication/chen-2022-distributednetworks/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/chen-2022-distributednetworks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

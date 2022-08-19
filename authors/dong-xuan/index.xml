@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dong Xuan | PT</title>
+    <link>https://posco.github.io/authors/dong-xuan/</link>
+      <atom:link href="https://posco.github.io/authors/dong-xuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dong Xuan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dong Xuan</title>
+      <link>https://posco.github.io/authors/dong-xuan/</link>
+    </image>
+    
+    <item>
+      <title>DragonNet: A Robust Mobile Internet Service System for Long-Distance Trains</title>
+      <link>https://posco.github.io/publication/tso-2013-b/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind detection of spread spectrum flow watermarks</title>
+      <link>https://posco.github.io/publication/jia-2012/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility: A Double-Edged Sword for HSPA Networks</title>
+      <link>https://posco.github.io/publication/tso-2011/</link>
+      <pubDate>Mon, 07 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DragonNet: A Robust Mobile Internet Services System for Long Distance Trains</title>
+      <link>https://posco.github.io/publication/tso-2011-b/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility: A Double-Edged Sword for HSPA Networks</title>
+      <link>https://posco.github.io/publication/tso-2010/</link>
+      <pubDate>Wed, 22 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/tso-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Detection of Spread Spectrum Flow Watermarks</title>
+      <link>https://posco.github.io/publication/jia-2009/</link>
+      <pubDate>Sun, 19 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/jia-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

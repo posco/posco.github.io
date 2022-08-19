@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quentin Mair | PT</title>
+    <link>https://posco.github.io/authors/quentin-mair/</link>
+      <atom:link href="https://posco.github.io/authors/quentin-mair/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quentin Mair</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Quentin Mair</title>
+      <link>https://posco.github.io/authors/quentin-mair/</link>
+    </image>
+    
+    <item>
+      <title>PROTECT: Container Process Isolation Using System Call Interception</title>
+      <link>https://posco.github.io/publication/win-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/win-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

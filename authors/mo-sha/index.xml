@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mo Sha | PT</title>
+    <link>https://posco.github.io/authors/mo-sha/</link>
+      <atom:link href="https://posco.github.io/authors/mo-sha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mo Sha</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 06 Oct 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Mo Sha</title>
+      <link>https://posco.github.io/authors/mo-sha/</link>
+    </image>
+    
+    <item>
+      <title>Toward ubiquitous Video-based Cyber-Physical Systems</title>
+      <link>https://posco.github.io/publication/xing-2008/</link>
+      <pubDate>Mon, 06 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/xing-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marwan Fayed | PT</title>
+    <link>https://posco.github.io/authors/marwan-fayed/</link>
+      <atom:link href="https://posco.github.io/authors/marwan-fayed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marwan Fayed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Jul 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Marwan Fayed</title>
+      <link>https://posco.github.io/authors/marwan-fayed/</link>
+    </image>
+    
+    <item>
+      <title>User-level Data Center Tomography</title>
+      <link>https://posco.github.io/publication/twigg-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/twigg-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

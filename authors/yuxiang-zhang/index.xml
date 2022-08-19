@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuxiang Zhang | PT</title>
+    <link>https://posco.github.io/authors/yuxiang-zhang/</link>
+      <atom:link href="https://posco.github.io/authors/yuxiang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuxiang Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuxiang Zhang</title>
+      <link>https://posco.github.io/authors/yuxiang-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Mystique: A Fine-grained and Transparent Congestion Control Enforcement Scheme</title>
+      <link>https://posco.github.io/publication/zhang-2019/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extensive evaluation on the performance and behaviour of TCP congestion control protocols under varied network scenarios</title>
+      <link>https://posco.github.io/publication/lin-2019/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/lin-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modest BBR: Enabling Better Fairness for BBR Congestion Control</title>
+      <link>https://posco.github.io/publication/zhang-2018-b/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCon: A Transparent Congestion Control Deployment Platform for Optimizing WAN Transfers</title>
+      <link>https://posco.github.io/publication/zhang-2017/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Track: Tracerouting in SDN Networks with Arbitrary Network Functions</title>
+      <link>https://posco.github.io/publication/zhang-2017-cloudnet/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2017-cloudnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

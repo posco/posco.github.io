@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X Zhang | PT</title>
+    <link>https://posco.github.io/authors/x-zhang/</link>
+      <atom:link href="https://posco.github.io/authors/x-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>X Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://posco.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>X Zhang</title>
+      <link>https://posco.github.io/authors/x-zhang/</link>
+    </image>
+    
+    <item>
+      <title>dDrops: Detecting silent packet drops on programmable data plane</title>
+      <link>https://posco.github.io/publication/qian-2022-ddropsplane/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/qian-2022-ddropsplane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pSFC: Fine-grained composition of service function chains in the programmable data plane</title>
+      <link>https://posco.github.io/publication/zhang-2022-psfcplane/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://posco.github.io/publication/zhang-2022-psfcplane/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
